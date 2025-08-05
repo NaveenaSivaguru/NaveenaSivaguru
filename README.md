@@ -4,10 +4,10 @@
 
 A passionate data science enthusiast with a Master's degree and a strong foundation in Python, AI/ML, and deep learning. I enjoy building intelligent systems that extract meaningful insights from data and contribute to impactful projects.
 
-## Contact Me
+## CONTACT ME
 <p><a href="https://www.linkedin.com/in/naveena-s-234138319/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> </p>
 
-## 🚀 Skills
+## SKILLS
 
 **🤖 Machine Learning** | **Deep Learning** | **📊 Data Visualization** 
 
@@ -21,7 +21,7 @@ A passionate data science enthusiast with a Master's degree and a strong foundat
 
 
 
-## Projects
+## PROJECTS
 
 ### Two-Stage Deep Learning System for Breast Cancer Detection with Grad-CAM Visualization and Streamlit Deployment
 
