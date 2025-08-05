@@ -1,14 +1,15 @@
-# Hello 👋, I'm Naveena
+# Welcome to My GitHub 👋  
+### I’m Naveena — A Curious Mind in the World of Data, AI & Deep Learning
 ### Driven Data Scientist | Focused on AI, ML & Research in Intelligent Systems
 
-A passionate data science enthusiast with a Master's degree and a strong foundation in Python, AI/ML, and deep learning. I enjoy building intelligent systems that solve real-world problems
+A passionate data science enthusiast with a Master's degree and a strong foundation in Python, AI/ML, and deep learning. I enjoy building intelligent systems that extract meaningful insights from data and contribute to impactful projects.
 
 ## Contact Me
 <p><a href="https://www.linkedin.com/in/naveena-s-234138319/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> </p>
 
 ## 🚀 Skills
 
-**Machine Learning** | **Deep Learning** | **Data Visualization** | **Python** | **Pandas** | **NumPy**
+**🤖 Machine Learning** | **Deep Learning** | **📊 Data Visualization** 
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;
